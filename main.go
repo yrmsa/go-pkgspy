@@ -62,6 +62,7 @@ func handleIndex(w http.ResponseWriter, r *http.Request) {
 	tmpl := `<!DOCTYPE html>
 <html>
 <head>
+<title>📦 go-pkgspy</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font:14px -apple-system,sans-serif;background:#f8f9fa;padding:20px}

@@ -20,7 +20,7 @@ cd go-pkgspy
 go run main.go
 ```
 
-Open http://localhost:8080 in your browser.
+Open http://localhost:9090 in your browser.
 
 ## Configuration
 

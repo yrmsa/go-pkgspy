@@ -46,9 +46,5 @@ Supported formats:
 
 ## Requirements
 
-- Go 1.19+
+- Go 1.23+
 - Internet connection for npm registry access
-
-## License
-
-MIT
